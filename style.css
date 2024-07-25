@@ -1,0 +1,22 @@
+
+.container2{
+    display: flex;
+    align-items: center;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagem-container {
+    flex: 1;
+    text-align: center; /* Centraliza a imagem horizontalmente */
+}
+
+.texto {
+    flex: 2; /* Aumenta o espaço para o texto */
+    padding: 20px;
+}
+p {
+    margin: 10px;
+}
